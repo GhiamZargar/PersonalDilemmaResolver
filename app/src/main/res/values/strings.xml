@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PersonalDilemmaResolver</string>
+    <string name="show_answer_button">Positive</string>
+    <string name="show_answer_button2">Negative</string>
+    <string name="warning_text">Collect Title</string>
+    <string name="dilemma_title_hint">Enter title for dilemma</string>
+    <string name="conflicting_title">Conflicting Title</string>
+    <string name="enter_title">Enter dilemma title</string>
+    <string name="dilemma_title">Dilemma Title</string>
+    <string name="negative_title">Negative</string>
+    <string name="positive_title">Positive</string>
+    <string name="positive_emotion">Type in positive emotion</string>
+    <string name="negative_emotion">Type in negative emotion</string>
+    <string name="start_dilemma">Start dilemma</string>
+    <string name="date_picker_title">Date of dilemma:</string>
+    <string name="time_picker_title">Time of dilemma:</string>
+    <string name="new_dilemma">New Dilemma</string>
+    <string name="show_subtitle">Show Dilemmas</string>
+    <string name="hide_subtitle">Hide Dilemmas</string>
+    <string name="subtitle_format">%1$s dilemma</string>
+    <string name="dilemma_solved_label">Solved</string>
+    <string name="delete_dilemma">Delete</string>
+</resources>
